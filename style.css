@@ -6,8 +6,8 @@
 
 main {
     margin: 50px auto;
-    width: 700px;
-    height: 90%;
+    width: 550px;
+    height: 80%;
     border-radius: 12px;
     background: #e0e0e0;
     box-shadow:  41px 41px 100px #b3b3b3,
@@ -47,7 +47,7 @@ header div a {
 }
 
 .h-1 {
-    font-size: 23px;
+    font-size: 20px;
     font-weight: 900;
     margin-top: 35px;
     color: rgb(65, 63, 63);
@@ -76,12 +76,14 @@ header div a {
 .h-2 {
     font-weight: 500;
     font-size: 27px;
+    margin-bottom: 15px;
 }
 
 .h-3 {
     font-weight: 900;
     font-size: 25px;
     color: rgb(112, 110, 110);
+    margin-bottom: 15px;
 }
 
 #progress-bar {
@@ -91,15 +93,15 @@ header div a {
 }
 
 .progress-bar-container {
-    height: 15px;
+    height: 13px;
     background-color: white;
-    width: 450px;
+    width: 440px;
     border-radius: 10px;
     border: solid 1px rgb(206, 204, 204);
 }
 
 .progress-bar-indicator {
-    height: 15px;
+    height: 12px;
     width: 75%;
     background-image: linear-gradient(to right, #6BAAC9, #356EC4, #4CACCF, #4CC4CF);
     border-top-left-radius: 10px;
@@ -109,7 +111,7 @@ header div a {
 #play {
     display: flex;
     justify-content: space-around;
-    padding: 0px 80px;
+    padding: 0px 5px;
 }
 
 #play .backward, #play .forward {
@@ -125,14 +127,14 @@ header div a {
 
 .backward a, .forward a {
     color: rgb(65, 63, 63);
-    font-size: 40px;
+    font-size: 45px;
 }
 
 #play .play {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 70px;
+    width: 72px;
     height: 80px;
     border-radius: 20px;
     box-shadow: inset -10px 10px 17px #cacaca,
@@ -141,7 +143,7 @@ header div a {
 
 .play a {
     color: #4CC4CF;
-    font-size: 40px;
+    font-size: 45px;
 }
 
 #onlybar {
