@@ -5,9 +5,9 @@
 }
 
 main {
-    margin: 100px auto;
+    margin: 50px auto;
     width: 700px;
-    height: 970px;
+    height: 90%;
     border-radius: 12px;
     background: #e0e0e0;
     box-shadow:  41px 41px 100px #b3b3b3,
@@ -59,8 +59,8 @@ header div a {
 }
 
 #plak img {
-    width: 400px;
-    height: 400px;
+    width: 370px;
+    height: 370px;
     border-radius: 100%;
     box-shadow:  -7px 7px 12px #707070,
              7px -7px 12px #ffffff;
