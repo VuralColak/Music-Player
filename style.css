@@ -167,3 +167,19 @@ header div a {
     height: 30px;
     opacity: calc(0.01);
 }
+
+.play:hover {
+        transform: scale(1.2);
+        background-color: white;
+}
+
+.quit:hover {
+    transform: scale(1.2);
+    background-color: white;
+}
+
+.search:hover {
+    transform: scale(1.2);
+    background-color: white;
+}
+
